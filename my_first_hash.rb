@@ -1,7 +1,5 @@
 def my_hash
- celebs = {"Beyonce" => "JayZ", "Alicia Keys" => "another value"}
-
-  
+ celebs = {"Beyonce" => "JayZ", "Alicia Keys" => "Swizz Beats"}
 end
 
 
